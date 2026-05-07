@@ -25,7 +25,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://hacker-news-app-git-main-dharmusisri245s-projects.vercel.app",
+      "https://hacker-news-app-three.vercel.app",
     ],
     credentials: true,
   })
