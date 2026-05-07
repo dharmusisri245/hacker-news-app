@@ -1,4 +1,3 @@
-# hacker-news-app
 
 # Hacker News App
 
